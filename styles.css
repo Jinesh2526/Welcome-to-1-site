@@ -1,0 +1,108 @@
+body {
+  background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+}
+p {
+  color: black;
+  text-align: justify;
+  font-size: 100px;
+}
+
+p:hover {
+  color: chartreuse;
+}
+#hello {
+  font-size: 50px;
+  color: red;
+}
+#hello:hover {
+  color: green;
+}
+.header {
+  border: 5px solid black;
+  background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+  margin: 0px;
+  color: red;
+}
+.left {
+  border: 5px solid red;
+  display: inline-block;
+  position: absolute;
+  left: 230px;
+}
+.left img {
+  width: 150px;
+}
+.left1 {
+  border: 5px solid rgba(17, 2, 32, 0.801);
+  display: inline-block;
+}
+.left1 img {
+  width: 150px;
+}
+
+.mid {
+  border: 5px solid red;
+  display: block;
+  left: 450px;
+  border-radius: 20px;
+  position: absolute;
+  top: 12px;
+}
+.mid1 {
+  display: inline-block;
+}
+.mid1 li {
+  display: inline-block;
+}
+.mid li a {
+  color: violet;
+
+  font-size: 50px;
+  text-decoration: none;
+  margin: 20px 20px;
+}
+.mid li a:hover {
+  color: brown;
+  text-decoration: underline;
+}
+.right {
+  position: absolute;
+  right: 200px;
+  border: 5px solid red;
+  display: inline-block;
+}
+.right img {
+  width: 113px;
+}
+.right1 {
+  position: absolute;
+  right: 20px;
+  border: 5px solid red;
+  display: inline-block;
+}
+.right1 img {
+  width: 153px;
+}
+.left11 {
+  background-color: rgb(21, 228, 72);
+  bottom: 5px;
+}
+.left12 {
+  background-color: rgb(21, 228, 72);
+}
+.footer {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+}
+.left11  {
+  font-size: 30px;
+}
+.left12 {
+  font-size: 30px;
+}
+.left11:hover
+{
+  background-color: wheat;
+
+}
