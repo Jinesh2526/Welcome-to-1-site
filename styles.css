@@ -100,9 +100,22 @@ p:hover {
 }
 .left12 {
   font-size: 30px;
+  
 }
 .left11:hover
 {
   background-color: wheat;
 
+}
+.left12:hover
+{
+  background-color: wheat;
+
+}
+.Search{
+  border: 3px solid red;
+ font-size: 35px;
+ position:relative;
+ top: 45px;
+ left: 550px;
 }
